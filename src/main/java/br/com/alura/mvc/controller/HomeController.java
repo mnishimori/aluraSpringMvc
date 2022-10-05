@@ -13,7 +13,7 @@ import br.com.alura.mvc.model.Pedido;
 import br.com.alura.mvc.repository.PedidoRepository;
 
 @Controller
-@RequestMapping("/pedidos")
+@RequestMapping("/principal")
 public class HomeController {
 	
 	@Autowired
